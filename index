@@ -1,6 +1,8 @@
 <html>
 	<title>Description Of The Page</title>
 		<body>
-			<h1><font color='red'>THIS IS STAGING ENVIRONMENT</font></h1>
+
+			<h1>THIS IS DEVELOPMENT ENVIRONMENT</h1>
+
 		</body>
 </html>
